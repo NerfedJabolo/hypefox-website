@@ -16,3 +16,13 @@
         themeColor: "#6211e6"
     });
 </script>
+
+<style>
+    #__nuxt {
+        min-height: 100vh;
+        min-height: 100svh;
+        display: flex;
+        flex-direction: column;
+        background-color: #111827;
+    }
+</style>

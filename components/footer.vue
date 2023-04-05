@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-gray-900 pt-2 sm:pt-2 lg:pt-2">
+    <div class="bg-gray-900 pt-2 sm:pt-2 lg:pt-2 mt-auto">
         <footer class="max-w-screen-2xl px-4 md:px-8 mx-auto">
             <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-12 lg:gap-8 pt-10 lg:pt-12 mb-16">
                 <div class="col-span-full lg:col-span-2">
