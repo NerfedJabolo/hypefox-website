@@ -58,7 +58,7 @@
                 {
                     "name": "Liam J",
                     "nickname": "Kenneth Sköld",
-                    "title": "Co-founder / CMO",
+                    "title": "Co-founder / Owner",
                     "image": "liam",
                     "country": "sweden",
                     "socials": [{
@@ -74,7 +74,7 @@
                   {
                     "name": "Lazar S",
                     "nickname": "ExoticalCat",
-                    "title": "Owner / CFO",
+                    "title": "Co-founder / Owner",
                     "image": "lazar",
                     "country": "romania",
                     "socials": [{
